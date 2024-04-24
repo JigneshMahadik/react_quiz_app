@@ -41,3 +41,14 @@
 h1{
   margin-bottom: 30px;
 }
+#btnSkip{
+  background-color: rgb(239, 143, 127);
+  border: none;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+#score{
+  color: brown;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
